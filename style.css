@@ -1,0 +1,28 @@
+body{ 
+
+	background-color:RGB(0, 128, 0);
+	font-family:cursive;
+}
+h1{
+	font-size: 30px;
+	text-align: center;
+	color:rgb(128, 0, 0);
+}
+
+h2{
+	font-size: 25px;
+	text-align: center;
+	color:rgb(128, 0, 0)
+}
+.summary {
+	background-image: url(flor6.jpg);
+	
+}
+
+.preamble {
+	background-image: url(flor2.jpg);
+}
+
+p {
+	color:#FCF8F8;
+}
